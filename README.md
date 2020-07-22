@@ -1,4 +1,4 @@
-### Hi there 👋
+### My latest blog posts on dev.to 📖
 
 <!-- BLOG-POST-LIST:START -->
 - [The URL Object (JS Bits)](https://dev.to/cilly_boloe/the-url-object-js-bits-f7p)
